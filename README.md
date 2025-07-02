@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Qisetna SOC Analyst Portfolio
 
 ### 🔍 Objective
@@ -90,3 +91,7 @@ For detailed raw logs and examples of attack patterns, see the [Appendix folder]
 - [Example Attack Log 1 - Brute Force](appendix/example-attack-log-1.md)
 - [Example Attack Log 2 - XML-RPC Exploit](appendix/example-attack-log-2.md)
 
+=======
+# Qisetna-SOC-Analyst-portfolio
+A GitHub portfolio documenting my SOC Analyst work for Qisetna
+>>>>>>> 256287f1cc991c991ee384c621432fa9b5523943
